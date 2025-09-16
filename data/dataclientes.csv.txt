@@ -1,0 +1,6 @@
+Cliente Idade Investimento Tipo
+Ana      32    15000        Ações
+Bruno    45    25000      Renda Fixa
+Carlos   29    8000  Fundos Imobiliários
+Daniela  37    12000         Ações
+Eduardo  50    3000      Renda Fixa

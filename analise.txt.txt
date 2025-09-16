@@ -1,0 +1,5 @@
+Relatório de Análise - Projeto XP
+Total de Clientes : 5
+Média de Idade : 38,6 anos 
+Investimento Médio : R$ 18,800
+Tipo mais Comum : Renda Fixa 
